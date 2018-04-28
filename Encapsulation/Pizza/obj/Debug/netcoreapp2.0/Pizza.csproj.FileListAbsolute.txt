@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\bin\Debug\netcoreapp2.0\Pizza.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Pizza\obj\Debug\netcoreapp2.0\Pizza.pdb

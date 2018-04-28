@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\bin\Debug\netcoreapp2.0\Validation of data.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\bin\Debug\netcoreapp2.0\Validation of data.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\bin\Debug\netcoreapp2.0\Validation of data.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\bin\Debug\netcoreapp2.0\Validation of data.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\bin\Debug\netcoreapp2.0\Validation of data.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\obj\Debug\netcoreapp2.0\Validation of data.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\obj\Debug\netcoreapp2.0\Validation of data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\obj\Debug\netcoreapp2.0\Validation of data.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\obj\Debug\netcoreapp2.0\Validation of data.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\obj\Debug\netcoreapp2.0\Validation of data.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Validation of data\obj\Debug\netcoreapp2.0\Validation of data.pdb

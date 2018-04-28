@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\bin\Debug\netcoreapp2.0\04. Opinion Poll.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\04. Opinion Poll\obj\Debug\netcoreapp2.0\04. Opinion Poll.pdb

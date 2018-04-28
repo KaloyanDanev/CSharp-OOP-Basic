@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.pdb

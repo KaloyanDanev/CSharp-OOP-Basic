@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\bin\Debug\netcoreapp2.0\02. Book Shop.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\02. Book Shop\obj\Debug\netcoreapp2.0\02. Book Shop.pdb

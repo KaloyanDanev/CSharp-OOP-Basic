@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\bin\Debug\netcoreapp2.0\01.DefineaClassPerson.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Lab - Defining Classes\01.DefineaClassPerson\obj\Debug\netcoreapp2.0\01.DefineaClassPerson.pdb

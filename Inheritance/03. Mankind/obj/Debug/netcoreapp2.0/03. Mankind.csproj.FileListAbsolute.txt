@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\bin\Debug\netcoreapp2.0\03. Mankind.deps.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\bin\Debug\netcoreapp2.0\03. Mankind.runtimeconfig.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\bin\Debug\netcoreapp2.0\03. Mankind.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\bin\Debug\netcoreapp2.0\03. Mankind.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\bin\Debug\netcoreapp2.0\03. Mankind.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\obj\Debug\netcoreapp2.0\03. Mankind.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\obj\Debug\netcoreapp2.0\03. Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\obj\Debug\netcoreapp2.0\03. Mankind.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\obj\Debug\netcoreapp2.0\03. Mankind.AssemblyInfo.cs
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\obj\Debug\netcoreapp2.0\03. Mankind.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Inheritance\03. Mankind\obj\Debug\netcoreapp2.0\03. Mankind.pdb
